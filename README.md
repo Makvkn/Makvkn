@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 ##  Young, promising and attractive frontend-developer
-#   Good luck and see you in the life game  
+###   Good luck and see you in the life game  
                                                       
 <!--
 **Makvkn/Makvkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
