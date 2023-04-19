@@ -1,6 +1,12 @@
 ## Hi there 👋
 ##  Young, promising and attractive frontend-developer
-###   Good luck and see you in the life game  
+###   Good luck and see you in the life game 
+
+
+- Stack : JavaScript / TypeScript / React / Redux / NodeJS / HTML5 / CCS3
+- Email: max.makovkin@yandex.ru
+- Telegram: @makvkn
+
                                                       
 <!--
 **Makvkn/Makvkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
